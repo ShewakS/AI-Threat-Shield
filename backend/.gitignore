@@ -1,0 +1,19 @@
+# Environment files
+.env
+*.env
+
+# Dataset directory
+dataset/
+*.csv
+*.zip
+
+# Trained models & artifacts
+artifacts/
+*.pkl
+*.joblib
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
